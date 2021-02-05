@@ -8,25 +8,10 @@
 <!--
 **hakimmaaouia/hakimmaaouia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
-
-<a href="https://api.whatsapp.com/send?phone=2348074140979&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-</a>
 <a href="https://www.facebook.com/hakim.maaouia.1/" alt="facebook"> 
-    <img src="badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=blue" />
+    <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=blue" />
 </a>
 <a href="https://www.linkedin.com/in/hakim-maaouia-b86540187/" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
