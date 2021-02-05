@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 <a href="https://api.whatsapp.com/send?phone=2348074140979&text=Hello%20Olayemii,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a>
-<a href="https://www.twitter.com/iam_olayemii" alt="Follow Me on Twitter"> 
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://www.facebook.com/hakim.maaouia.1/" alt="facebook"> 
+    <img src="badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=blue" />
 </a>
-<a href="https://www.linkedin.com/in/olayemi-garuba-424342144" alt="Connect on LinkedIn"> 
+<a href="https://www.linkedin.com/in/hakim-maaouia-b86540187/" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
