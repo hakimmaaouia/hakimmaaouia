@@ -1,34 +1,42 @@
-### Hi there I am hakim maaouia 👋
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=hakimmaaouia&show_icons=true&theme=radical)
-<br>
-<a  href="https://github.com/hakimmaaouia">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hakimmaaouia&layout=compact&theme=radical" />
-</a>
-<!-- ![Ajulus's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<!--
-**hakimmaaouia/hakimmaaouia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><b>Hi there I am hakim maaouia 👋</b></h1>
+<p>
+I'm a Junior Developer,Extremely motivated to develop and improve my skills, I am confident in my ability to learn quickly using what I learn.
+</p>
 
-<!-- ![Ajulus's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<!--
-**hakimmaaouia/hakimmaaouia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+<p align="center">
+  <a href="https://github.com/hakimmaaouia">
+    <img src="https://github-readme-stats.vercel.app/api?username=hakimmaaouia&show_icons=true&theme=radical" alt="hakim maaouia github stats">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hakimmaaouia">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hakimmaaouia&layout=compact&theme=radical" alt="hakim maaouia github stats">
+  </a>
+</p>
+
+## 🚀 Skills 🔝
+<p align="center">
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>  
+</p>
+
+## 📝 Find me
+
+<p align="center">
 <a href="https://www.facebook.com/hakim.maaouia.1/" alt="facebook"> 
     <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=blue" />
 </a>
-<a href="https://www.linkedin.com/in/hakim-maaouia-b86540187/" alt="Connect on LinkedIn"> 
+<a href="https://www.linkedin.com/in/hakim-maaouia-b86540187/" alt="LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-## 🚀 Skills 🔝
-
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+<a href="mailto:hakimmaaouia@gmail.com" alt="gmail"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+  <a href="https://gitlab.com/hakimmaaouia" alt="gitlab"> 
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </p>
