@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there I am hakim maaouia 👋</b></h1>
 <p>
-I'm a Junior Developer,Extremely motivated to develop and improve my skills, I am confident in my ability to learn quickly using what I learn.
+I'm a passionate full-stack developer with 4 years of experience, turning ideas into reality with JavaScript and TypeScript. I specialize in both front-end (React.js, Next.js, GraphQL), and back-end (Node.js, Nest.js) also leveraging DevOps practices. Beyond coding, I excel in effective communication and collaboration. I enjoy tackling challenges, adopting new technologies for innovative solutions, and thriving in dynamic tech environments.
 </p>
 
 
